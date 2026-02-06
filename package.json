@@ -1,0 +1,29 @@
+{
+  "name": "com.iraklichkuaseli.marquee",
+  "displayName": "Marquee",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Smooth scrolling marquee text for TextMeshPro. Add a single component alongside any TMP_Text to get horizontal scrolling with configurable speed, direction, and edge fading.",
+  "keywords": [
+    "ui",
+    "ugui",
+    "text",
+    "marquee",
+    "scroll",
+    "ticker",
+    "textmeshpro",
+    "tmp"
+  ],
+  "author": {
+    "name": "Irakli Chkuaseli",
+    "url": "https://iraklichkuaseli.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/irakli/marquee.git"
+  },
+  "documentationUrl": "https://github.com/irakli/marquee#readme",
+  "changelogUrl": "https://github.com/irakli/marquee/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/irakli/marquee/blob/main/LICENSE.md"
+}
