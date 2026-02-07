@@ -3,6 +3,9 @@
   "displayName": "Marquee",
   "version": "1.0.0",
   "unity": "2022.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.9"
+  },
   "description": "Smooth scrolling marquee text for TextMeshPro. Add a single component alongside any TMP_Text to get horizontal scrolling with configurable speed, direction, and edge fading.",
   "keywords": [
     "ui",
